@@ -1,0 +1,29 @@
+# Coisas que todo mundo esquece até dar problema
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Python - porque sempre criamos uns arquivos aleatórios
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Imagens de teste - essas a gente não sobe mesmo
+/test_images/
+/examples/*.jpg
+/examples/*.png
+
+# Configurações do IDE - cada um usa uma coisa diferente
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs - porque debug é messy
+*.log
+logs/
