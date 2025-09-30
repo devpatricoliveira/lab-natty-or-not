@@ -25,4 +25,3 @@ O mais engraçado é que usei IA pra me ajudar a detectar IA... isso é tipo aqu
 
 *"Trust, but verify" - até com IA* 🤖🔍
 
-## 📁 Estrutura do Projeto
